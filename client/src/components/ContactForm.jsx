@@ -62,7 +62,7 @@ export default function ContactForm() {
 
         <div className="contact__form-box">
         <div class="_form_image_1q2ua_68">
-          <img alt="two-phones" src="/assets/two-phones-BjcTngaR.jpeg"/>
+          <img alt="two-phones" src="/assets/two-phones-BjcTngaR.png"/>
           </div>
         </div>
       </div>
