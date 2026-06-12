@@ -42,7 +42,8 @@
       "team": { "title": "Young team", "text": "Our team consists of highly qualified specialists from different parts of the world, who specialize in applying modern technologies to improve the quality of customer service." },
       "security": { "title": "Our payment solutions meet high security standards", "text": "Including certification PCI DSS" },
       "support": { "title": "Round-the-clock support and uninterrupted service", "text": "MoniqoPay is your reliable partner 24/7. We are here to support you at any time when it is needed. Your tasks are our passion!" },
-      "independent": { "title": "Independent company", "text": "International company specializing in high risk payments. We offer both international card acquiring and more than 100 local solutions in Europe, Latin America, Asia, the Middle East and countries of the CIS. The list of countries and solutions is constantly expanding. Personal approach to each client. Fast integration within 24 hours." }
+      "independent": { "title": "Independent company", "text": "International company specializing in high risk payments. We offer both international card acquiring and more than 100 local solutions in Europe, Latin America, Asia, the Middle East and countries of the CIS. The list of countries and solutions is constantly expanding. Personal approach to each client. Fast integration within 24 hours." },
+      "well_known": { "title": "Well-known in the digital space", "text": "We are engaged in promoting the company on the internet, actively lead telegram channel,created the company on the internet, actively and much more" }
     }
   },
   "unite": {

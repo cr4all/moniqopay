@@ -8,6 +8,7 @@ export default function StatsSection() {
   return (
     <section className="stats">
       <div className="stats__inner">
+        <div>
         <h2 className="stats__title">{t('stats.title')}</h2>
         <div className="stats__dots">
           {STAT_KEYS.map((key) => (
@@ -17,11 +18,14 @@ export default function StatsSection() {
             </div>
           ))}
         </div>
-        <img
-          src="/assets/laptop-DJKFKhVn.webp"
+        </div>
+        <div>
+           <img
+          src="/assets/laptop-CLGIMbbB.jpeg"
           alt="Analytics dashboard"
           className="stats__laptop"
         />
+        </div>
       </div>
     </section>
   );

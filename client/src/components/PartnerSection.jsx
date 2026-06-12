@@ -6,7 +6,6 @@ export default function PartnerSection() {
   return (
     <section className="partner">
       <div className="partner__inner">
-        <img src="/assets/spiral-C7cDjvMt.webp" alt="" className="partner__spiral" aria-hidden="true" />
         <div className="partner__grid">
           <h2 className="partner__title">
             {t('partner.title').split('MoniqoPay').map((part, i, arr) =>

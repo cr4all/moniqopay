@@ -18,7 +18,6 @@ export default function Home() {
       <StatsSection />
       <CountriesCarousel />
       <AdvantagesSection />
-      <UniteWorldSection />
       <IndustriesSection />
       <ContactForm />
       <TelegramSection />

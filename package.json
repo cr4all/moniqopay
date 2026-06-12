@@ -14,6 +14,6 @@
     "db:migrate": "npm run db:migrate -w server"
   },
   "devDependencies": {
-    "concurrently": "^9.1.2"
+    "concurrently": "^9.2.1"
   }
 }

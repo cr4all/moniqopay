@@ -12,7 +12,7 @@ export default function UniteWorldSection() {
         <p className="section-subtitle" style={{ textAlign: 'center', margin: '1.6rem auto 0' }}>
           {t('unite.subtitle')}
         </p>
-        <img src="/assets/two-phones-BjcTngaR.webp" alt="Mobile payments" className="unite__phones" />
+        <img src="/assets/two-phones-BjcTngaR.jpeg" alt="Mobile payments" className="unite__phones" />
         <div className="unite__cards">
           <img src="/assets/topCard-D2BZCzME.svg" alt="" className="unite__card-img" aria-hidden="true" />
           <img src="/assets/bottomCard-BiXWVzVi.svg" alt="" className="unite__card-img" aria-hidden="true" />

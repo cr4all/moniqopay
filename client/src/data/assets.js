@@ -27,16 +27,16 @@ export const MARQUEE_FLAGS = [
 ];
 
 export const SLIDES = [
-  '/assets/slide1-BL8WN4Yc.webp',
-  '/assets/slide2-BuGVoXQ5.webp',
-  '/assets/slide3-DidmhhGe.webp',
-  '/assets/slide4-BwXYq2pe.webp',
-  '/assets/slide5-B-VyEKVQ.webp',
+  '/assets/slide1-BL8WN4Yc.png',
+  '/assets/slide2-BuGVoXQ5.png',
+  '/assets/slide3-DidmhhGe.png',
+  '/assets/slide4-BwXYq2pe.png',
+  '/assets/slide5-B-VyEKVQ.png',
 ];
 
 export const ADVANTAGE_ICONS = {
-  tech: '/assets/controller-BzcS-87T.webp',
-  international: '/assets/coin-BaY4v4-E.webp',
+  tech: '/assets/graph-D0yi933c.webp',
+  international: '/assets/',
   team: '/assets/team-I3RAZkYx.webp',
   security: '/assets/cert-CXK8jiHQ.webp',
   support: '/assets/phone-BNhQptxO.webp',

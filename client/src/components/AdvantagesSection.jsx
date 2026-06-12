@@ -8,6 +8,7 @@ const ADVANTAGE_LAYOUT = [
   { key: 'security', className: 'advantages__card--wide2' },
   { key: 'support', className: 'advantages__card--wide2' },
   { key: 'independent', className: 'advantages__card--wide3' },
+  { key: 'independent', className: 'advantages__card--wide3' },
 ];
 
 export default function AdvantagesSection() {

@@ -13,6 +13,7 @@ export default function TelegramSection() {
     <section className="telegram">
       <div className="blue-circle-glow telegram__glow" aria-hidden="true" />
       <div className="telegram__box">
+      <img src="/assets/circle-BN6b35CM.webp" alt="" className="telegram__circle" aria-hidden="true" />
         <div className="telegram__slider">
           <img src={SLIDES[slideIndex]} alt="" className="telegram__slide-img" />
           <div className="countries__nav" style={{ justifyContent: 'center', marginTop: '1rem' }}>
@@ -30,7 +31,6 @@ export default function TelegramSection() {
           <a href="#contact" className="btn btn-tg">
             {t('telegram.cta')}
           </a>
-          <img src="/assets/circle-BN6b35CM.webp" alt="" className="telegram__circle" aria-hidden="true" />
         </div>
       </div>
     </section>

@@ -36,14 +36,11 @@ export default function ContactForm() {
         <div className="contact__info">
           <h2 className="section-title">{t('contact.title')}</h2>
           <p className="section-subtitle">{t('contact.subtitle')}</p>
-        </div>
-
-        <div className="contact__form-box">
           {message && <div className="form-success">{message}</div>}
           {error && <div className="form-error">{error}</div>}
           <form onSubmit={handleSubmit} className="contact__form-grid">
             <div className="form-group">
-              <label htmlFor="name">{t('contact.name')}</label>
+              <label htmlFor="name" className='text-white'>{t('contact.name')}</label>
               <input id="name" name="name" type="text" required value={form.name} onChange={handleChange} />
             </div>
             <div className="form-group">
@@ -61,6 +58,12 @@ export default function ContactForm() {
             </div>
             <p className="contact__consent">{t('contact.consent')}</p>
           </form>
+        </div>
+
+        <div className="contact__form-box">
+        <div class="_form_image_1q2ua_68">
+          <img alt="two-phones" src="/assets/two-phones-BjcTngaR.jpeg"/>
+          </div>
         </div>
       </div>
     </section>
