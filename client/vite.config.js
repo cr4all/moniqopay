@@ -5,11 +5,11 @@ export default defineConfig({
   plugins: [react()],
   server: {
     host: '0.0.0.0',
-    port: 5173,
+    port: 80,
     allowedHosts: ['moniqopay.com', 'www.moniqopay.com'],
     proxy: {
       '/api': {
-        target: 'http://localhost:3001',
+        target: 'http://moniqopay.com:3001',
         changeOrigin: true,
       },
     },
