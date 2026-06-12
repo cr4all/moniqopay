@@ -75,6 +75,34 @@ PORT=3001
 CLIENT_URL=http://localhost:5173
 ```
 
+## Production Deployment
+
+Build the client, run database migrations, then start the server. When `client/dist` exists, Express serves the SPA and API from the same port.
+
+```bash
+npm install
+npm run build
+npm run db:deploy
+npm run start
+```
+
+Set production values in `server/.env`:
+
+```
+DATABASE_URL="file:./prod.db"
+JWT_SECRET="use-a-long-random-secret"
+PORT=3001
+CLIENT_URL=https://moniqopay.com
+```
+
+Use a process manager (e.g. PM2) to keep the server running:
+
+```bash
+pm2 start server/src/index.js --name moniqopay
+```
+
+For HTTPS and a custom domain, put Nginx in front of the Node app. See `deploy/nginx.conf.example`.
+
 ## License
 
 Private project.
