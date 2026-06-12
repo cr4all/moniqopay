@@ -1,0 +1,114 @@
+{
+  "header": {
+    "since": "since 2019",
+    "signIn": "Sign in",
+    "signOut": "Sign out"
+  },
+  "hero": {
+    "title": "Welcome to MoniqoPay Private Limited Company",
+    "description": "Our company offers reliable and innovative payment solutions. Our mission is to increase the revenue of companies and individual clients by implementing effective payment tools. Our goal is to provide the simplest possible payment solutions anywhere, anytime, to anyone, and in any currency.",
+    "registration": "Registration",
+    "contactUs": "Contact Us"
+  },
+  "tagline": {
+    "text": "MoniqoPay — simple solutions for Complex Challenges"
+  },
+  "partner": {
+    "title": "MoniqoPay is your reliable partner in the field of financial solutions",
+    "subtitle": "Ensuring confidence and security at each stage of your financial journey",
+    "description": "We offer innovative payment solutions that open new opportunities for your business and personal finances. Our team of experts cares about protecting your interests and ensuring the security of transactions. Let us become part of your financial success."
+  },
+  "stats": {
+    "title": "Key facts about us in numbers",
+    "items": {
+      "support": { "value": "24/7", "label": "We work without stopping to develop your product" },
+      "experts": { "value": "20+", "label": "experts work on creating products" },
+      "countries": { "value": "89", "label": "countries with which we cooperate" },
+      "projects": { "value": ">178", "label": "projects use the MoniqoPay service" },
+      "market": { "value": "from 2019", "label": "On the market" }
+    }
+  },
+  "countries": {
+    "title": "We offer work through payment systems:",
+    "swipeHint": "Swipe left",
+    "items": ["Japan", "China", "Australia", "India", "EU countries", "USA", "Canada", "Argentina", "Mexico", "South Korea"]
+  },
+  "advantages": {
+    "title": "MoniqoPay – universal payment service",
+    "subtitle": "Reliable and simple solution that meets all the needs of online business",
+    "items": {
+      "tech": { "title": "At the forefront of technology", "text": "We already had payment solutions that were not on the market." },
+      "international": { "title": "We are international company", "text": "We cover a wide range of markets and offer services to clients all over the world." },
+      "team": { "title": "Young team", "text": "Our team consists of highly qualified specialists from different parts of the world, who specialize in applying modern technologies to improve the quality of customer service." },
+      "security": { "title": "Our payment solutions meet high security standards", "text": "Including certification PCI DSS" },
+      "support": { "title": "Round-the-clock support and uninterrupted service", "text": "MoniqoPay is your reliable partner 24/7. We are here to support you at any time when it is needed. Your tasks are our passion!" },
+      "independent": { "title": "Independent company", "text": "International company specializing in high risk payments. We offer both international card acquiring and more than 100 local solutions in Europe, Latin America, Asia, the Middle East and countries of the CIS. The list of countries and solutions is constantly expanding. Personal approach to each client. Fast integration within 24 hours." }
+    }
+  },
+  "unite": {
+    "title": "We unite the world",
+    "subtitle": "Making online payments simple, regardless of where you are"
+  },
+  "industries": {
+    "title": "With whom we work",
+    "products": { "title": "products", "text": "— convenience of payment on the site of purchased programs, articles, banners, any other information products" },
+    "dating": { "title": "Dating sites", "text": "— purchase additional privileges, expand opportunities dating with online payment" },
+    "investment": { "title": "Investment projects", "text": "— for owners of startups, commercial, economic, financial projects, a separate solution for accepting payments" },
+    "also": "and also",
+    "col1": ["Order by mail / phone", "Online retail", "Travel", "Marketing", "Igaming", "High risk"],
+    "col2": ["Betting", "18+ content", "Forex", "Telecommunications", "Online trading of art objects"],
+    "col3": ["Horoscope", "Freelance", "Telemarketing", "NUTRA", "Internet auctions", "Software loading"],
+    "customize": "*Customize payment systems on request to any products"
+  },
+  "contact": {
+    "title": "Have questions? Leave a request!",
+    "subtitle": "Fill out the form, we will contact you within 15 minutes",
+    "name": "Your name",
+    "telegram": "Telegram nickname",
+    "email": "E-mail",
+    "submit": "Contact us",
+    "consent": "By clicking the button, you agree to the processing of personal data",
+    "success": "Thank you! We will contact you within 15 minutes.",
+    "error": "Something went wrong. Please try again."
+  },
+  "telegram": {
+    "title": "Go to our closed tg-bot, where we publish offers in 150+ geos every day",
+    "subtitle": "Leave a request on the site and get access",
+    "cta": "Leave a request"
+  },
+  "footer": {
+    "tagline": "Simple solutions for complex problems",
+    "whoWeAre": "Who we are",
+    "paymentSystems": "Payment systems",
+    "advantages": "Advantages",
+    "withWhom": "With whom we work",
+    "contactUs": "Contact us",
+    "terms": "TERMS & CONDITIONS",
+    "privacy": "Privacy policy",
+    "copyright": "© MoniqoPay, 2019 — 2026"
+  },
+  "auth": {
+    "signInTitle": "Sign in to MoniqoPay",
+    "registerTitle": "Create your account",
+    "email": "E-mail",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "name": "Your name",
+    "signIn": "Sign in",
+    "register": "Register",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "signInLink": "Sign in",
+    "registerLink": "Register",
+    "passwordMismatch": "Passwords do not match",
+    "successRegister": "Account created successfully!",
+    "successLogin": "Welcome back!",
+    "error": "Authentication failed"
+  },
+  "legal": {
+    "privacyTitle": "Privacy Policy",
+    "termsTitle": "Terms & Conditions",
+    "privacyContent": "MoniqoPay Private Limited Company respects your privacy. We collect and process personal data only as necessary to provide our payment services, respond to inquiries, and comply with applicable regulations. Contact data submitted through our forms is stored securely and used solely for communication purposes.",
+    "termsContent": "By using MoniqoPay services, you agree to our terms of service. Our payment solutions are provided subject to applicable laws and regulations. Integration timelines, supported geographies, and service levels are defined in individual agreements with each client."
+  }
+}

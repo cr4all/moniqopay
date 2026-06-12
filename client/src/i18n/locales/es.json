@@ -1,0 +1,114 @@
+{
+  "header": {
+    "since": "desde 2019",
+    "signIn": "Iniciar sesión",
+    "signOut": "Cerrar sesión"
+  },
+  "hero": {
+    "title": "Bienvenido a MoniqoPay Private Limited Company",
+    "description": "Nuestra empresa ofrece soluciones de pago fiables e innovadoras. Nuestra misión es aumentar los ingresos de empresas y clientes individuales mediante herramientas de pago eficaces. Nuestro objetivo es proporcionar las soluciones de pago más simples posibles en cualquier lugar, en cualquier momento, para cualquier persona y en cualquier moneda.",
+    "registration": "Registro",
+    "contactUs": "Contáctenos"
+  },
+  "tagline": {
+    "text": "MoniqoPay — soluciones simples para desafíos complejos"
+  },
+  "partner": {
+    "title": "MoniqoPay es su socio fiable en soluciones financieras",
+    "subtitle": "Garantizando confianza y seguridad en cada etapa de su viaje financiero",
+    "description": "Ofrecemos soluciones de pago innovadoras que abren nuevas oportunidades para su negocio y finanzas personales. Nuestro equipo de expertos se preocupa por proteger sus intereses y garantizar la seguridad de las transacciones."
+  },
+  "stats": {
+    "title": "Datos clave en cifras",
+    "items": {
+      "support": { "value": "24/7", "label": "Trabajamos sin parar para desarrollar su producto" },
+      "experts": { "value": "20+", "label": "expertos trabajan en la creación de productos" },
+      "countries": { "value": "89", "label": "países con los que cooperamos" },
+      "projects": { "value": ">178", "label": "proyectos usan el servicio MoniqoPay" },
+      "market": { "value": "desde 2019", "label": "En el mercado" }
+    }
+  },
+  "countries": {
+    "title": "Ofrecemos trabajo a través de sistemas de pago:",
+    "swipeHint": "Desliza a la izquierda",
+    "items": ["Japón", "China", "Australia", "India", "Países de la UE", "EE.UU.", "Canadá", "Argentina", "México", "Corea del Sur"]
+  },
+  "advantages": {
+    "title": "MoniqoPay – servicio de pago universal",
+    "subtitle": "Solución fiable y simple que satisface todas las necesidades del negocio online",
+    "items": {
+      "tech": { "title": "A la vanguardia de la tecnología", "text": "Ya teníamos soluciones de pago que no estaban en el mercado." },
+      "international": { "title": "Somos una empresa internacional", "text": "Cubrimos una amplia gama de mercados y ofrecemos servicios a clientes de todo el mundo." },
+      "team": { "title": "Equipo joven", "text": "Nuestro equipo está formado por especialistas altamente cualificados de diferentes partes del mundo." },
+      "security": { "title": "Nuestras soluciones cumplen altos estándares de seguridad", "text": "Incluida la certificación PCI DSS" },
+      "support": { "title": "Soporte las 24 horas y servicio ininterrumpido", "text": "MoniqoPay es su socio fiable 24/7." },
+      "independent": { "title": "Empresa independiente", "text": "Empresa internacional especializada en pagos de alto riesgo. Integración rápida en 24 horas." }
+    }
+  },
+  "unite": {
+    "title": "Unimos el mundo",
+    "subtitle": "Haciendo los pagos online simples, sin importar dónde estés"
+  },
+  "industries": {
+    "title": "Con quién trabajamos",
+    "products": { "title": "productos", "text": "— comodidad de pago en el sitio de programas, artículos, banners comprados" },
+    "dating": { "title": "Sitios de citas", "text": "— compra de privilegios adicionales con pago online" },
+    "investment": { "title": "Proyectos de inversión", "text": "— solución separada para aceptar pagos para startups" },
+    "also": "y también",
+    "col1": ["Pedido por correo / teléfono", "Comercio online", "Viajes", "Marketing", "Igaming", "High risk"],
+    "col2": ["Apuestas", "Contenido 18+", "Forex", "Telecomunicaciones", "Comercio online de objetos de arte"],
+    "col3": ["Horóscopo", "Freelance", "Telemarketing", "NUTRA", "Subastas por internet", "Descarga de software"],
+    "customize": "*Personalización de sistemas de pago bajo solicitud"
+  },
+  "contact": {
+    "title": "¿Tiene preguntas? ¡Deje una solicitud!",
+    "subtitle": "Complete el formulario, le contactaremos en 15 minutos",
+    "name": "Su nombre",
+    "telegram": "Apodo de Telegram",
+    "email": "E-mail",
+    "submit": "Contáctenos",
+    "consent": "Al hacer clic en el botón, acepta el procesamiento de datos personales",
+    "success": "¡Gracias! Le contactaremos en 15 minutos.",
+    "error": "Algo salió mal. Inténtelo de nuevo."
+  },
+  "telegram": {
+    "title": "Vaya a nuestro tg-bot privado con ofertas en 150+ geos cada día",
+    "subtitle": "Deje una solicitud en el sitio y obtenga acceso",
+    "cta": "Dejar una solicitud"
+  },
+  "footer": {
+    "tagline": "Soluciones simples para problemas complejos",
+    "whoWeAre": "Quiénes somos",
+    "paymentSystems": "Sistemas de pago",
+    "advantages": "Ventajas",
+    "withWhom": "Con quién trabajamos",
+    "contactUs": "Contáctenos",
+    "terms": "TÉRMINOS Y CONDICIONES",
+    "privacy": "Política de privacidad",
+    "copyright": "© MoniqoPay, 2019 — 2026"
+  },
+  "auth": {
+    "signInTitle": "Iniciar sesión en MoniqoPay",
+    "registerTitle": "Crear su cuenta",
+    "email": "E-mail",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar contraseña",
+    "name": "Su nombre",
+    "signIn": "Iniciar sesión",
+    "register": "Registrarse",
+    "noAccount": "¿No tiene cuenta?",
+    "hasAccount": "¿Ya tiene cuenta?",
+    "signInLink": "Iniciar sesión",
+    "registerLink": "Registrarse",
+    "passwordMismatch": "Las contraseñas no coinciden",
+    "successRegister": "¡Cuenta creada con éxito!",
+    "successLogin": "¡Bienvenido de nuevo!",
+    "error": "Error de autenticación"
+  },
+  "legal": {
+    "privacyTitle": "Política de privacidad",
+    "termsTitle": "Términos y condiciones",
+    "privacyContent": "MoniqoPay Private Limited Company respeta su privacidad. Recopilamos y procesamos datos personales solo según sea necesario.",
+    "termsContent": "Al usar los servicios de MoniqoPay, acepta nuestros términos de servicio."
+  }
+}
